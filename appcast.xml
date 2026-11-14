@@ -2,5 +2,25 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Task12</title>
+        <item>
+            <title>1.2.0b1</title>
+            <pubDate>Sat, 14 Nov 2026 12:36:10 -0600</pubDate>
+            <sparkle:version>1.2.0b1</sparkle:version>
+            <sparkle:shortVersionString>1.2.0b1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Task12 1.2 beta 1
+
+This is a test build. Thank you for trying it. Please send any feedback to whoever shared it with you.
+
+- **A new look.** Task12 is now blocky and monochrome, with a light mode. Use the **Dark / Light** switch at the top of the side panel; Task12 remembers your choice.
+- **A bigger window on bigger screens.** Everything grows with the window, and the new slider above the images changes the tile size.
+- **A quality chart.** It shows the trade-offs of High, Balanced, Smallest and Manual at a glance.
+- **Smoother progress.** The rings and the new progress bar move evenly and never jump backwards.
+- **Settings (⌘,).** Appearance, processing speed, the launch notice, notifications, where files are saved, and the preset for new images.
+- **A notification when a batch finishes** while you're in another app, plus a progress bar on the Dock icon.
+- **Results count down** to the new total size.
+]]></description>
+            <enclosure url="https://digitalnixon.github.io/task12-updates/Task12-1.2.0b1.dmg" length="15912545" type="application/octet-stream" sparkle:edSignature="lYYYDMME0Krxtieotq/PfIxbjW7HI4lX+cRrxjJJv1f9eSPi21uhbDjVv2AShgkugO9EclFy/uMbVBygy8xfDw=="/>
+        </item>
     </channel>
 </rss>
